@@ -38,7 +38,7 @@ main {
 table {
     min-width: 360px;
     width: 100%;
-    border-collapse: collapse; /* responsável por juntar as bordar da tabela */
+    border-collapse: collapse;
 }
 
 table caption {
